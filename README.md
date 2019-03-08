@@ -1,5 +1,5 @@
 # Machine-Learning
-A collection of machine learning resources
+A collection of machine learning resources. Among them, I've completed the mlcourse.ai course, which is really practical. This course perfectly balances theory and real world application, which can satisfy the need of machine learning beginners and middle-level machine learning users. 
 
 Open Machine Learning Course mlcourse.ai: https://mlcourse.ai/  -- Highly recommended!!
 
